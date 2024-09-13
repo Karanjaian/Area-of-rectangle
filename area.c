@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 int main(){
-    int length,width,product;
+    int length,width,product
+
+    printf("Area of a rectangle = length*Width")
 
     printf("Enter the length:");
     scanf("%d",&length);
